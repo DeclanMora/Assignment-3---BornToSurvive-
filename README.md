@@ -25,3 +25,6 @@ setup ganache and link to metamask
 - now update .env file loacted inside assignment_3/Marketplace/.env
 - now is the fun part, run the bts_marketplace by the following code "streamlit run bts_marketplace.py"
 - now enjoy the virtual marketplace note of errors encountered in marketplace; you can only see the pictures per category once per loading of the streamlit app. 
+
+# Video of how the app should look at the end (if any errors occur please reach out to me)
+https://vimeo.com/745290104/7d2435e79d
