@@ -1,6 +1,6 @@
 # Assignment-3---BornToSurvive-
 
-# For Asssignment Scope refer to file "WhitePapers".
+# For Asssignment Scope refer to file "WhitePapers" inside assignment 3.
 
 # How to Run
 -how to run app follow the following next three steps. 
