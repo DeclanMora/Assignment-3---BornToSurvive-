@@ -1,10 +1,12 @@
-# Assignment-3---BornToSurvive-How to Run
+# Assignment-3---BornToSurvive-
 
+# For Asssignment Scope refer to file "White Pages".
 
+# How to Run
+-how to run app follow the following next three steps. 
 
 # First Step-Link for access 
 setup ganache and link to metamask
-
 
 
 # 2nd step-create nft tokens
@@ -18,7 +20,6 @@ setup ganache and link to metamask
 - Congratulations you've now finished the creation of the four seperate base NFTS 
 
 
-
 # 3rd step - run marketplace 
 - run the BTScoin/contract/BTStoken.sol in remix
 - collect and update the BTScoin/contract/compiled/bts_abi.json file with relative abi code from running in remix
@@ -28,3 +29,4 @@ setup ganache and link to metamask
 
 # Video of how the app should look at the end (if any errors occur please reach out to me)
 https://vimeo.com/745290104/7d2435e79d
+
